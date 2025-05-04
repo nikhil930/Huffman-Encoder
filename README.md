@@ -10,7 +10,6 @@
   - [Usage](#usage)
   - [Example](#example)
 - [Contributing](#contributing)
-- [YouTube Video](#youtube-video)
 
 ## Overview
 
@@ -51,9 +50,6 @@ The main code is contained inside [src folder](src)
 ### Installation
 
 1. Clone the repository to your local machine using:
-   ```bash
-   git clone https://github.com/ammarlodhi255/file-compression-system.git
-   ```
    
 2. Navigate to the project directory:
    ```bash
@@ -93,6 +89,3 @@ If you'd like to contribute to this project, please fork the repository and use 
 4. Push to the branch.
 5. Submit a pull request.
 
-## YouTube Video
-
-Link: [https://youtu.be/S0Wua5WxKZI](https://youtu.be/S0Wua5WxKZI)
